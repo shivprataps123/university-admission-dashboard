@@ -1,3 +1,5 @@
+<img width="1918" height="1015" alt="Screenshot 2026-09-15 at 4 50 03 PM" src="https://github.com/user-attachments/assets/1f9a6a66-03f8-4f48-a5e8-645c8a9e9e43" />
+
 # University Admission Analytics Dashboard
 
 A responsive admission analytics dashboard built with React, TypeScript, Vite, Material UI, Recharts, and Axios.
