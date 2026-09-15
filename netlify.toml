@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[functions]
+  directory = "netlify/functions"
+
+[[redirects]]
+  from = "/api/v1/analytics/admissions"
+  to = "/.netlify/functions/admissions"
+  status = 200
